@@ -29,6 +29,8 @@ namespace CaptainMarvel
             h1.Add("age", new int[5] {  2, 3, 5, 7, 9 });
 
             Console.WriteLine(h1["name"]);
+            // convert to int[] to access the element via a[2]
+            // can not be done by default
             Console.WriteLine(((int[])h1["age"])[2]);
         }
     }

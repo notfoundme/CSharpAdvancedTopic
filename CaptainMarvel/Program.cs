@@ -7,9 +7,9 @@ namespace CaptainMarvel
     {
         static void Main(string[] args)
         {
-            CollectionExample c = new CollectionExample();
-            c.arrayListExample();
-            c.hashTableExample();
+            Calculator c = new Calculator();
+            c.sum((int) 10.5, 12);
+            c.sub(15, 12);
         }
     }
 }
