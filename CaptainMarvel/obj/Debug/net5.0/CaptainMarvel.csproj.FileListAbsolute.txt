@@ -1,0 +1,16 @@
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\obj\Debug\net5.0\CaptainMarvel.csproj.AssemblyReference.cache
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\obj\Debug\net5.0\CaptainMarvel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\obj\Debug\net5.0\CaptainMarvel.AssemblyInfoInputs.cache
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\obj\Debug\net5.0\CaptainMarvel.AssemblyInfo.cs
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\obj\Debug\net5.0\CaptainMarvel.csproj.CoreCompileInputs.cache
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\bin\Debug\net5.0\CaptainMarvel.exe
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\bin\Debug\net5.0\CaptainMarvel.deps.json
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\bin\Debug\net5.0\CaptainMarvel.runtimeconfig.json
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\bin\Debug\net5.0\CaptainMarvel.runtimeconfig.dev.json
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\bin\Debug\net5.0\CaptainMarvel.dll
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\bin\Debug\net5.0\ref\CaptainMarvel.dll
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\bin\Debug\net5.0\CaptainMarvel.pdb
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\obj\Debug\net5.0\CaptainMarvel.dll
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\obj\Debug\net5.0\ref\CaptainMarvel.dll
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\obj\Debug\net5.0\CaptainMarvel.pdb
+C:\Users\ESONIC\source\repos\CaptainMarvel\CaptainMarvel\obj\Debug\net5.0\CaptainMarvel.genruntimeconfig.cache
