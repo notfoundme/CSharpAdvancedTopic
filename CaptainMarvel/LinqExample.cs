@@ -10,6 +10,7 @@ using System.Linq;
 /// </summary>
 namespace CaptainMarvel
 {
+    [Obsolete("use StudentModel2 instead")]
     class StudentModel
     {
         public string name;
@@ -21,9 +22,21 @@ namespace CaptainMarvel
         }
     }
 
+    class StudentModel2
+    {
+        public string name;
+        public int grade;
+
+        public StudentModel(string name, int grade)
+        {
+            this.name = name;
+            this.grade = grade;
+        }
+    }
+
     class LinQExample {
         public void exampleWithoutLinq() {
-            StudentModel s1 = new StudentModel("garima", 10);
+            StudentModel2 s1 = new StudentModel2("garima", 10);
             StudentModel s2 = new StudentModel("sulav", 8);
             StudentModel s3 = new StudentModel("ram", 9);
             StudentModel s4 = new StudentModel("laxman", 10);
@@ -49,6 +62,16 @@ namespace CaptainMarvel
             
             foreach (StudentModel i in scoresFiletered) {
                 Console.WriteLine(i.name);
+            }
+        }
+
+        public void exampleLinqBasicDatatype() {
+            int[] scores = new int[] { 25, 95, 105 };
+            IEnumerable<int> scoresFiletered = from item in scores where item > 90 select item;
+
+            foreach (int i in scoresFiletered)
+            {
+                Console.WriteLine(i);
             }
         }
     }
